@@ -4,9 +4,13 @@
 I thrive in the realms of web and media design, where I blend creativity with technology. My heart beats for PHP, HTML, CSS, and I find Laravel to be my most fascinating and preferred framework. WordPress, on the other hand, holds a special place in my journey as it's where my passion meets experience in content management.
 
 🖥️ Web Design Expertise:
+
 ✅ PHP (Laravel)
+
 ✅ HTML5 / CSS3
+
 ✅ WordPress | Elementor
+
 ✅ Bootstrap / SASS
 ✅ Figma / Adobe Suite (Photoshop, Illustrator, Indesign)
 ✅ Responsive and User-Centric Design
