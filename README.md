@@ -1,7 +1,7 @@
 "Hi there! 👋 I'm Salman MP, a dedicated Web and Graphics Designer with a passion for crafting immersive digital experiences. Here's a glimpse into my world:
 
 🎨 **About Me**
-I thrive in the realms of web and media design, where I blend creativity with technology. My heart beats for PHP, HTML, and CSS, and I find Laravel to be an interesting framework I'm exploring. WordPress, on the other hand, holds a special place in my journey as it's where my passion meets experience in content management.
+I thrive in the realms of web and media design, where I blend creativity with technology. My heart beats for PHP, HTML, and CSS, and I find Laravel to be an interesting framework I'm exploring. WordPress, on the other hand, holds a special place in my journey as it's where my passion meets experience in content management. 
 
 💽 **Additional Expertise:**
 - **Library Digitalization:** Proficient in library digitalization using Koha, ensuring efficient management and accessibility of digital resources.
@@ -10,7 +10,7 @@ I thrive in the realms of web and media design, where I blend creativity with te
 🖥️ **Web Design Expertise:**
 - PHP
 - HTML5 / CSS3
-- WordPress | Elementor
+- WordPress | Elementor | WPBakery
 - Bootstrap / SASS
 - Figma / Adobe Suite (Photoshop, Illustrator, Indesign)
 - Responsive and User-Centric Design
@@ -22,6 +22,9 @@ In the captivating world of media, I'm not just a designer – I'm a storyteller
 - Drone Photo/Videography
 - Photography + Videography
 - Editing and Color Grading
+
+🌟 **Experience:**
+With over 7 years in the digital field, I bring a wealth of experience to every project.
 
 🚀 **Connect with Me!**
 Let's connect and share our creative journey:
