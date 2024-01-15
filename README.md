@@ -16,7 +16,7 @@ In the captivating world of media, I'm not just a designer – I'm a storyteller
 - Adobe Premiere Pro
 - After Effects
 - Drone Photo/Videography
-- Photography
+- Photography + Videography
 - Editing and Color Grading
 
 🚀 **Connect with Me!**
