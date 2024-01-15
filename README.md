@@ -1,4 +1,4 @@
-"Hi there! 👋 I'm Salman MP, a self-taught Web and Graphics Designer with over 7 years of experience in the digital field. Let me take you on a journey through my creative world:
+Hi there! 👋 I'm Salman MP, a self-taught Web and Graphics Designer with over 7 years of experience in the digital field. Let me take you on a journey through my creative world:
 
 🎨 **About Me**
 I'm passionate about crafting immersive digital experiences, and my journey began over a decade ago. During my higher secondary studies, I embarked on the web world by creating a WAP site. In those early days, I managed to gather a community with hundreds of users, marking the beginning of my exploration into the vast realm of the internet.
@@ -40,4 +40,4 @@ Let's connect and share our creative journey:
 Feel free to reach out for collaboration or just a friendly chat:
 - ✉️ [mpsalman2011@gmail.com](mailto:mpsalman2011@gmail.com)
 
-Let's create something extraordinary together! 🚀"
+Let's create something extraordinary together! 🚀
