@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Salman MP, a self-taught Web and Graphics Designer with over 7 years of experience in the digital field. Let me take you on a journey through my creative world:
+Hi there! 👋 I'm Salman MP, a dedicated Web and Graphics Designer with a passion for crafting immersive digital experiences. In my creative world, I've honed my skills as a self-taught designer over the past 7 years, navigating the dynamic landscape of the digital field. Let me take you on a journey through my unique approach to web and graphic design.
 
 🎨 **About Me**
 I'm passionate about crafting immersive digital experiences, and my journey began over a decade ago. During my higher secondary studies, I embarked on the web world by creating a WAP site. In those early days, I managed to gather a community with hundreds of users, marking the beginning of my exploration into the vast realm of the internet.
