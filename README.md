@@ -6,11 +6,8 @@ I thrive in the realms of web and media design, where I blend creativity with te
 🖥️ Web Design Expertise:
 
 ✅ PHP (Laravel)
-
 ✅ HTML5 / CSS3
-
 ✅ WordPress | Elementor
-
 ✅ Bootstrap / SASS
 ✅ Figma / Adobe Suite (Photoshop, Illustrator, Indesign)
 ✅ Responsive and User-Centric Design
