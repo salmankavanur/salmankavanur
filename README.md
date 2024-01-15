@@ -3,6 +3,10 @@
 🎨 **About Me**
 I thrive in the realms of web and media design, where I blend creativity with technology. My heart beats for PHP, HTML, CSS, and I find Laravel to be my most fascinating and preferred framework. WordPress, on the other hand, holds a special place in my journey as it's where my passion meets experience in content management.
 
+💽 **Additional Expertise:**
+- **Library Digitalization:** Proficient in library digitalization using Koha, ensuring efficient management and accessibility of digital resources.
+- **Hosting & Server Management:** Well-experienced in hosting and server management to ensure smooth and reliable web operations.
+  
 🖥️ **Web Design Expertise:**
 - PHP (Laravel)
 - HTML5 / CSS3
