@@ -8,7 +8,7 @@ I thrive in the realms of web and media design, where I blend creativity with te
 - **Hosting & Server Management:** Well-experienced in hosting and server management to ensure smooth and reliable web operations.
   
 🖥️ **Web Design Expertise:**
-- PHP (Laravel)
+- PHP
 - HTML5 / CSS3
 - WordPress | Elementor
 - Bootstrap / SASS
