@@ -22,6 +22,7 @@ In the captivating world of media, I'm not just a designer – I'm a storyteller
 - Drone Photo/Videography
 - Photography + Videography
 - Editing and Color Grading
+- Live Streaming and Broadcasting
 
 🌟 **Experience:**
 With over 7 years in the digital field, I bring a wealth of experience to every project.
