@@ -34,7 +34,7 @@ With over 7 years in the digital field, I bring a wealth of experience to every 
 Let's connect and share our creative journey:
 - Instagram: [salman_kavanur](https://www.instagram.com/salman_kavanur/)
 - Facebook: [salmankavanoor](https://www.facebook.com/salmankavanoor/)
-- Twitter: [salmankavanur](https://www.twitter.com/salmankavanur/)
+- X: [salmankavanur](https://www.twitter.com/salmankavanur/)
 - LinkedIn: [salmanmp](https://www.linkedin.com/in/salmanmp/)
 
 📧 **Contact Information**
