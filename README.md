@@ -8,6 +8,7 @@ Today, I thrive in the realms of web and media design, where I blend creativity 
 💽 **Additional Expertise:**
 - **Library Digitalization:** Proficient in library digitalization using Koha, ensuring efficient management and accessibility of digital resources.
 - **Hosting & Server Management:** Well-experienced in hosting and server management to ensure smooth and reliable web operations.
+- **Dedicated Servers:** Expert in providing managed and unmanaged dedicated servers. If you're looking for robust hosting solutions, feel free to contact me.
 
 🖥️ **Web Design Expertise:**
 - PHP | Laravel
