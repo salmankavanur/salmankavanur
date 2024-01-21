@@ -18,8 +18,8 @@ Today, I thrive in the realms of web and media design, where I blend creativity 
 - Figma / Adobe Suite (Photoshop, Illustrator, Indesign)
 - Responsive and User-Centric Design
 
-🎥 **Media Mastery:**
-In the captivating world of media, I'm not just a designer – I'm a storyteller. From drone photo/videography to seamless editing and color grading, I bring visuals to life.
+🎥 **Media Passion:**
+In the captivating world of media, I'm not just a designer – I'm a visual treater. From drone photo/videography to seamless editing and color grading, I bring visuals to life.
 - Adobe Premiere Pro
 - After Effects
 - Drone Photo/Videography
