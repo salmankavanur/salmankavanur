@@ -45,10 +45,10 @@ Let's create something extraordinary together! 🚀
 
 --------------------------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+stacks!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Salman MP
 
-[![Website](https://img.shields.io/badge/salmankavanur.com-grey?style=for-the-badge&url=https%3A%2F%2Fsalmankavanur.com)](https://salmanmp.me/)
+[![Website](https://img.shields.io/badge/salmanmp.me-grey?style=for-the-badge&url=https%3A%2F%2Fsalmanmp.me)](https://salmanmp.me/)
 [![Behance](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/salmankavanur)](https://www.behance.net/salmankavanur)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/salman_kavanur)](https://www.instagram.com/salman_kavanur)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/salmanmp/)](https://www.linkedin.com/in/salmanmp/)
