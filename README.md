@@ -10,7 +10,7 @@
 :fountain_pen: Passionate about crafting immersive digital experiences</br>
 :computer: Proficient in PHP, HTML, CSS, WordPress, Laravel, Adobe Suite, Figma, and responsive design</br>
 :camera: Expertise in videography, video editing, photography, and aerial photography</br>
-:mailbox: How to reach me: <a href="mailto:mpsalman2011@gmail.com">mpsalman2011@gmail.com</a>
+:mailbox: How to reach me: <a href="mailto:mpsalman2011@gmail.com">hello@salmanmp.me</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankavanur&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Salman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankavanur&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
