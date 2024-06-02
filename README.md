@@ -42,3 +42,60 @@ Feel free to reach out for collaboration or just a friendly chat:
 - ✉️ [mpsalman2011@gmail.com](mailto:mpsalman2011@gmail.com)
 
 Let's create something extraordinary together! 🚀
+
+--------------------------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Salman MP
+
+[![Website](https://img.shields.io/badge/salmankavanur.com-grey?style=for-the-badge&url=https%3A%2F%2Fsalmankavanur.com)](https://salmankavanur.com/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@salmankavanur)](https://medium.com/@salmankavanur)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/salmanmp/)](https://www.linkedin.com/in/salmanmp/)
+
+:school: Over 7 years of experience in web and graphic design</br>
+:fountain_pen: Passionate about crafting immersive digital experiences</br>
+:computer: Proficient in PHP, HTML, CSS, WordPress, Laravel, Adobe Suite, Figma, and responsive design</br>
+:camera: Expertise in videography, video editing, photography, and aerial photography</br>
+:mailbox: How to reach me: <a href="mailto:mpsalman2011@gmail.com">mpsalman2011@gmail.com</a>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankavanur&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Salman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankavanur&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=maintanance-mode&theme=github_dark)](https://github.com/salmankavanur/maintanance-mode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=personal-portfolio&theme=github_dark)](https://github.com/salmankavanur/personal-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=coming-soon&theme=github_dark)](https://github.com/salmankavanur/coming-soon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=certificate&theme=github_dark)](https://github.com/salmankavanur/certificate)
+
+## Languages and Tools:
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/4c7f7a33a36e06521139d7bfs20015b70a8e6a533/topics/laravel/laravel.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/379d0194b9b0ef4707d1bfbf2d8cddf4f33b9e1f/topics/html/html.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/379d0194b9b0ef4707d1bfbf2d8cddf4f33b9e1f/topics/css/css.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/379d0194b9b0ef4707d1bfbf2d8cddf4f33b9e1f/topics/wordpress/wordpress.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/379d0194b9b0ef4707d1bfbf2d8cddf4f33b9e1f/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/379d0194b9b0ef4707d1bfbf2d8cddf4f33b9e1f/topics/figma/figma.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/379d0194b9b0ef4707d1bfbf2d8cddf4f33b9e1f/topics/photoshop/photoshop.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/379d0194b9b0ef4707d1bfbf2d8cddf4f33b9e1f/topics/adobe-illustrator/adobe-illustrator.png">&nbsp;&nbsp;&nbsp;
+</div>
+
+</br>
+
+## My Workspace:
+<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></br>
+<img height=40 src="https://img.shields.io/badge/Zen 2-Ryzen%203700X-%23ED1C24?style=for-the-badge&logo=AMD"></br>
+<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair"></br>
+<img height=40 src="https://img.shields.io/badge/RDNA%202-RX%206800-%23ED1C24?style=for-the-badge&logo=AMD"></br>
+<img height=40 src="https://img.shields.io/badge/ROG%20STRIX-B550--F-%23000000?style=for-the-badge&logo=asus"></br>
+<img height=40 src="https://img.shields.io/badge/Corsair-RM750x-%23ffd900?style=for-the-badge&logo=corsair"></br>
+<img height=40 src="https://img.shields.io/badge/WD__Black-SN750 500 GB-%23000000?style=for-the-badge&logo=westerndigital"></br>
+<img height=40 src="https://img.shields.io/badge/BarraCuda-2%20TB-%236EBE49?style=for-the-badge&logo=seagate"></br>
+
+---
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How to Improve SEO on a Laravel Portfolio Website](https://salmankavanur.com/blog/how-to-improve-seo-on-a-laravel-portfolio-website)
+- [Building a Certificate Generator with Laravel](https://salmankavanur.com/blog/building-a-certificate-generator-with-laravel)
+<!-- BLOG-POST-LIST:END -->
