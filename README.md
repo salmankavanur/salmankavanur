@@ -49,7 +49,8 @@ Let's create something extraordinary together! 🚀
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Salman MP
 
 [![Website](https://img.shields.io/badge/salmankavanur.com-grey?style=for-the-badge&url=https%3A%2F%2Fsalmankavanur.com)](https://salmanmp.me/)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@salmankavanur)](https://medium.com/@salmankavanur)
+[![Behance](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/salmankavanur)](https://www.behance.net/salmankavanur)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/salman_kavanur)](https://www.instagram.com/salman_kavanur)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/salmanmp/)](https://www.linkedin.com/in/salmanmp/)
 
 :school: Over 7 years of experience in web and graphic design</br>
