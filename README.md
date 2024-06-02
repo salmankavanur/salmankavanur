@@ -1,3 +1,27 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+stacks!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Salman MP
+
+[![Website](https://img.shields.io/badge/salmanmp.me-grey?style=for-the-badge&url=https%3A%2F%2Fsalmanmp.me)](https://salmanmp.me/)
+[![Behance](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/salmankavanur)](https://www.behance.net/salmankavanur)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/salman_kavanur)](https://www.instagram.com/salman_kavanur)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/salmanmp/)](https://www.linkedin.com/in/salmanmp/)
+
+:school: Over 7 years of experience in web and graphic design</br>
+:fountain_pen: Passionate about crafting immersive digital experiences</br>
+:computer: Proficient in PHP, HTML, CSS, WordPress, Laravel, Adobe Suite, Figma, and responsive design</br>
+:camera: Expertise in videography, video editing, photography, and aerial photography</br>
+:mailbox: How to reach me: <a href="mailto:mpsalman2011@gmail.com">mpsalman2011@gmail.com</a>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankavanur&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Salman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankavanur&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=maintanance-mode&theme=github_dark)](https://github.com/salmankavanur/maintanance-mode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=personal-portfolio&theme=github_dark)](https://github.com/salmankavanur/personal-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=coming-soon&theme=github_dark)](https://github.com/salmankavanur/coming-soon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=certificate&theme=github_dark)](https://github.com/salmankavanur/certificate)
+
+
 Hi there! 👋 I'm Salman MP, a dedicated Web and Graphics Designer with a passion for crafting immersive digital experiences. In my creative world, I've honed my skills as a self-taught designer over the past 7 years, navigating the dynamic landscape of the digital field. Let me take you on a journey through my unique approach to web and graphic design.
 
 🎨 **About Me**
@@ -43,27 +67,3 @@ Feel free to reach out for collaboration or just a friendly chat:
 
 Let's create something extraordinary together! 🚀
 
---------------------------
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+stacks!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Salman MP
-
-[![Website](https://img.shields.io/badge/salmanmp.me-grey?style=for-the-badge&url=https%3A%2F%2Fsalmanmp.me)](https://salmanmp.me/)
-[![Behance](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/salmankavanur)](https://www.behance.net/salmankavanur)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/salman_kavanur)](https://www.instagram.com/salman_kavanur)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/salmanmp/)](https://www.linkedin.com/in/salmanmp/)
-
-:school: Over 7 years of experience in web and graphic design</br>
-:fountain_pen: Passionate about crafting immersive digital experiences</br>
-:computer: Proficient in PHP, HTML, CSS, WordPress, Laravel, Adobe Suite, Figma, and responsive design</br>
-:camera: Expertise in videography, video editing, photography, and aerial photography</br>
-:mailbox: How to reach me: <a href="mailto:mpsalman2011@gmail.com">mpsalman2011@gmail.com</a>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankavanur&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Salman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankavanur&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=maintanance-mode&theme=github_dark)](https://github.com/salmankavanur/maintanance-mode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=personal-portfolio&theme=github_dark)](https://github.com/salmankavanur/personal-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=coming-soon&theme=github_dark)](https://github.com/salmankavanur/coming-soon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=certificate&theme=github_dark)](https://github.com/salmankavanur/certificate)
