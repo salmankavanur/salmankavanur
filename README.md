@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&pause=1000&random=false&width=435&lines=Welcome+to+my+Stacks!;I'm+Salman;I'm+a+Web+Designer;I'm+a+Graphic+Designer)](https://git.io/typing-svg)
-
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Salman MP
 
 [![Website](https://img.shields.io/badge/salmanmp.me-grey?style=for-the-badge&url=https%3A%2F%2Fsalmanmp.me)](https://salmanmp.me/)
