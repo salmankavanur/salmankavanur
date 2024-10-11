@@ -63,7 +63,7 @@ Let's connect and share our creative journey:
 
 📧 **Contact Information**
 Feel free to reach out for collaboration or just a friendly chat:
-- ✉️ [mpsalman2011@gmail.com](mailto:mpsalman2011@gmail.com)
+- ✉️ [hello@salmanmp.me](mailto:hello@salmanmp.me)
 
 Let's create something extraordinary together! 🚀
 
