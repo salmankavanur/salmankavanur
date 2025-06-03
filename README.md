@@ -8,7 +8,7 @@
 
 :school: Over 7 years of experience in web and graphic design</br>
 :fountain_pen: Passionate about crafting immersive digital experiences</br>
-:computer: Proficient in PHP, HTML, CSS, WordPress, Laravel, Adobe Suite, Figma, and responsive design</br>
+:computer: Proficient in TypeScript, JavaScript, PHP, HTML, CSS, Blade, WordPress, Laravel, Adobe Suite, Figma, and responsive design</br>
 :camera: Expertise in videography, video editing, photography, and aerial photography</br>
 :mailbox: How to reach me: <a href="mailto:mpsalman2011@gmail.com">hello@salmanmp.me</a>
 
