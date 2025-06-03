@@ -27,14 +27,15 @@ Hi there! 👋 I'm Salman MP, a dedicated Web and Graphics Designer with a passi
 🎨 **About Me**
 I'm passionate about crafting immersive digital experiences, and my journey began over a decade ago. During my higher secondary studies, I embarked on the web world by creating a WAP site. In those early days, I managed to gather a community with hundreds of users, marking the beginning of my exploration into the vast realm of the internet.
 
-Today, I thrive in the realms of web and media design, where I blend creativity with technology. My heart beats for PHP, HTML, and CSS, and I find Laravel to be an interesting framework I'm exploring. WordPress holds a special place in my journey as it's where my passion meets experience in content management.
+Today, I thrive in the realms of web and media design, where I blend creativity with technology. My heart beats for Next.js, which I use to build full-stack web applications with seamless functionality, alongside my core skills in PHP, HTML, and CSS. I find Laravel to be an interesting framework I'm exploring, and WordPress holds a special place in my journey as it's where my passion meets experience in content management.
 
 💽 **Additional Expertise:**
 - **Library Digitalization:** Proficient in library digitalization using Koha, ensuring efficient management and accessibility of digital resources.
 - **Hosting & Server Management:** Well-experienced in hosting and server management to ensure smooth and reliable web operations.
 - **Dedicated Servers:** Expert in providing managed and unmanaged dedicated servers. If you're looking for robust hosting solutions, feel free to contact me.
 
-🖥️ **Web Design Expertise:**
+🖥️ **Full-Stack Web & Design Expertise:**
+- Next.js | Node.js
 - PHP | Laravel
 - HTML5 / CSS3
 - WordPress | Elementor | WPBakery
