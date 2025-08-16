@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&pause=1000&random=false&width=435&lines=Welcome+to+my+Stacks!;I'm+Salman;I'm+a+Web+Designer;I'm+a+Graphic+Designer)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Salman MP
 
-[![HitCount](https://visitor-badge.glitch.me/badge?page_id=salmankavanur&left_color=green&right_color=black)](https://github.com/salmankavanur)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salmankavanur.visitor-badge&left_color=green&right_color=black&format=true)
 
 [![Website](https://img.shields.io/badge/salmanmp.me-grey?style=for-the-badge&url=https%3A%2F%2Fsalmanmp.me)](https://salmanmp.me/)
 [![Behance](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/salmanmp)](https://www.behance.net/salmanmp)
