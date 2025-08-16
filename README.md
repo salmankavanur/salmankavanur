@@ -67,4 +67,3 @@ Feel free to reach out for collaboration or just a friendly chat:
 - ✉️ [hello@salmanmp.me](mailto:hello@salmanmp.me)
 
 Let's create something extraordinary together! 🚀
-
