@@ -1,132 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&pause=1000&width=520&lines=Welcome+to+my+Stacks!;I'm+Salman+MP;Web+Designer+%26+Developer;Graphic+Designer+%26+Visual+Creator)](https://git.io/typing-svg)
 
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" />
-  Hi there, I'm Salman MP
-</h1>
+ Hi there, I'm Salman MP
 
-[![Website](https://img.shields.io/badge/salmanmp.me-111?style=for-the-badge&logo=vercel&logoColor=white)](https://salmanmp.me/)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/salmanmp)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salman_kavanur)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmanmp/)
-![Visitors](https://komarev.com/ghpvc/?username=salmankavanur&label=Profile%20Views&style=for-the-badge)
 
-> 7+ years crafting immersive digital experiences across web, graphics, and media.  
-> Next.js enjoyer • WordPress veteran • Laravel explorer • Aerial/Video creator.
+:school: Over 7 years of experience in web and graphic design:fountain_pen: Passionate about crafting immersive digital experiences:computer: Proficient in TypeScript, JavaScript, PHP, HTML, CSS, Blade, WordPress, Laravel, Adobe Suite, Figma, and responsive design:camera: Expertise in videography, video editing, photography, and aerial photography:mailbox: How to reach me: hello@salmanmp.me
 
----
 
-### 🔧 Core Stack
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=111)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=111)
 
----
 
-## ⚡ Live Developer Metrics
 
-<!-- STATS + TOP LANGS + STREAK -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=salmankavanur&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=github_dark&hide_border=true" alt="Salman's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankavanur&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="170" src="https://streak-stats.demolab.com?user=salmankavanur&theme=github-dark&hide_border=true" alt="Current Streak"/>
-  </a>
-</p>
 
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmankavanur&theme=github-dark&hide_border=true&radius=8" alt="Contribution Activity Graph"/>
-  </a>
-</p>
 
-<!-- TROPHIES -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmankavanur&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
-</p>
 
----
 
-## 🐍 Contribution Snake (Auto-Generated)
-<!-- Requires a GitHub Action to generate /update this SVG to the `output` branch -->
-![Snake animation](https://raw.githubusercontent.com/salmankavanur/salmankavanur/output/github-contribution-grid-snake-dark.svg)
+Skills
 
----
 
-## 🚀 Featured Projects
-<p align="left">
-  <a href="https://github.com/salmankavanur/maintanance-mode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=maintanance-mode&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/salmankavanur/personal-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=personal-portfolio&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/salmankavanur/coming-soon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=coming-soon&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/salmankavanur/certificate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=certificate&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+Top repositories
 
----
+Hi there! 👋 I'm Salman MP, a dedicated Web and Graphics Designer with a passion for crafting immersive digital experiences. In my creative world, I've honed my skills as a self-taught designer over the past 7 years, navigating the dynamic landscape of the digital field. Let me take you on a journey through my unique approach to web and graphic design.
+🎨 About MeI'm passionate about crafting immersive digital experiences, and my journey began over a decade ago. During my higher secondary studies, I embarked on the web world by creating a WAP site. In those early days, I managed to gather a community with hundreds of users, marking the beginning of my exploration into the vast realm of the internet.
+Today, I thrive in the realms of web and media design, where I blend creativity with technology. My heart beats for Next.js, which I use to build full-stack web applications with seamless functionality, alongside my core skills in PHP, HTML, and CSS. I find Laravel to be an interesting framework I'm exploring, and WordPress holds a special place in my journey as it's where my passion meets experience in content management.
+💽 Additional Expertise:  
 
-## 🛰️ Auto-Updating Sections
+Library Digitalization: Proficient in library digitalization using Koha, ensuring efficient management and accessibility of digital resources.  
+Hosting & Server Management: Well-experienced in hosting and server management to ensure smooth and reliable web operations.  
+Dedicated Servers: Expert in providing managed and unmanaged dedicated servers. If you're looking for robust hosting solutions, feel free to contact me.
 
-### 🗓️ Recent GitHub Activity
-<!-- Powered by: https://github.com/Readme-Workflows/recent-activity -->
-<!--START_SECTION:activity-->
-<!-- Automatic: recent activity will be injected here by the workflow -->
-<!--END_SECTION:activity-->
+🖥️ Full-Stack Web & Design Expertise:  
 
-### 🧭 Currently Working On
-<!-- You can populate this with a workflow that reads your latest commits/pushes -->
-<!--START_SECTION:portfolio-->
-- 📦 Full-stack apps with **Next.js + Node.js**
-- 🧩 WordPress projects (Elementor, custom themes)
-- 🛠️ Laravel experiments & APIs
-<!--END_SECTION:portfolio-->
+Next.js | Node.js  
+PHP | Laravel  
+HTML5 / CSS3  
+WordPress | Elementor | WPBakery  
+Bootstrap / SASS  
+Figma / Adobe Suite (Photoshop, Illustrator, Indesign)  
+Responsive and User-Centric Design
 
----
+🎥 Media Passion:In the captivating world of media, I'm not just a designer – I'm a visual treater. From drone photo/videography to seamless editing and color grading, I bring visuals to life.  
 
-## 🎥 Media & Production
-- Drone photo/videography • Editing & color grading • Live streaming/broadcasting  
-- **Tools:** Premiere Pro · After Effects · DaVinci Resolve
+Adobe Premiere Pro  
+After Effects  
+Drone Photo/Videography  
+Photography + Videography  
+Editing and Color Grading  
+Live Streaming and Broadcasting
 
----
+🌟 Experience:With over 7 years in the digital field, I bring a wealth of experience to every project.
+🚀 Connect with Me!Let's connect and share our creative journey:  
 
-## 📫 Contact
-- Email: **[hello@salmanmp.me](mailto:hello@salmanmp.me)**
-- Instagram: **[@salman_kavanur](https://www.instagram.com/salman_kavanur/)**
-- LinkedIn: **[/in/salmanmp](https://www.linkedin.com/in/salmanmp/)**
+Instagram: salman_kavanur  
+Facebook: salmankavanoor  
+X: salmankavanur  
+LinkedIn: salmanmp
 
----
+📧 Contact InformationFeel free to reach out for collaboration or just a friendly chat:  
 
-<details>
-<summary>🛠️ Setup notes for dynamic widgets (keep this collapsed)</summary>
+✉️ hello@salmanmp.me
 
-- **Stats / Top Langs:** uses `github-readme-stats` cards above (no setup needed).
-- **Streak:** powered by `streak-stats.demolab.com` (no setup needed).
-- **Activity Graph:** uses `github-readme-activity-graph` (no setup needed).
-- **Trophies:** uses `github-profile-trophy` (no setup needed).
-- **Recent Activity (auto):** enable the action from https://github.com/Readme-Workflows/recent-activity and keep the markers.
-- **Snake:** enable the action from https://github.com/Platane/snk to generate `output/github-contribution-grid-snake-*.svg`.
-</details>
+Let's create something extraordinary together! 🚀
