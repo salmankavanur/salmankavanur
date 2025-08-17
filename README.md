@@ -20,7 +20,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=salmankavanur&theme=github_dark)](https://git.io/streak-stats)
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,nodejs,nextjs,laravel,wordpress,bootstrap,sass,figma,ps,ai,pr,ae)
+![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,nodejs,nextjs,laravel,wordpress,bootstrap,figma,ps,ai,pr,ae)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salmankavanur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
