@@ -18,7 +18,7 @@
 | ------------- | ------------- |
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=salmankavanur&theme=github-dark&hide_border=true&v=4)](https://github.com/salmankavanur)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=salmankavanur&theme=github-dark&hide_border=true)](https://github.com/salmankavanur)
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,nodejs,nextjs,laravel,wordpress,bootstrap,figma,ps,ai,pr,ae)
