@@ -22,8 +22,7 @@
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,nodejs,nextjs,laravel,wordpress,bootstrap,figma,ps,ai,pr,ae)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=salmankavanur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=salmankavanur&theme=onedark)](https://github.com/salmankavanur)
 
 ## Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=maintanance-mode&theme=github_dark)](https://github.com/salmankavanur/maintanance-mode)
