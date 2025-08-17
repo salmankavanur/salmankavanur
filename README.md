@@ -18,7 +18,6 @@
 | ------------- | ------------- |
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=salmankavanur&theme=github-dark&hide_border=true)](https://github.com/salmankavanur)
-![Trophy](https://github-profile-trophy.vercel.app/?username=salmankavanur&theme=onedark)
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,nodejs,nextjs,laravel,wordpress,bootstrap,figma,ps,ai,pr,ae)
