@@ -17,8 +17,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankavanur&theme=github_dark&include_all_commits=true&show_icons=true&hide_border=true&hide=issues" alt="Salman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankavanur&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=salmankavanur&theme=github-dark&hide_border=true&v=4)](https://github.com/salmankavanur)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=salmankavanur&theme=github-dark&hide_border=true)](https://github.com/salmankavanur)
+<img src="https://d3frb2mbny706b.cloudfront.net/salmankavanur" width="600">
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,css,nodejs,nextjs,laravel,wordpress,bootstrap,figma,ps,ai,pr,ae)
