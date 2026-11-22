@@ -31,8 +31,10 @@ I build fast, good-looking websites and web apps, and I design and film the visu
   <a href="https://github.com/salmankavanur"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=salmankavanur&theme=github-dark&hide_border=true" alt="GitHub Streak"></a>
 </p>
 
-### 📌 Top repositories
+### 📌 Featured repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=LOQ-Keyboard-RGB&theme=github_dark)](https://github.com/salmankavanur/LOQ-Keyboard-RGB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=auto-silence-remover&theme=github_dark)](https://github.com/salmankavanur/auto-silence-remover)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=maintanance-mode&theme=github_dark)](https://github.com/salmankavanur/maintanance-mode)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=coming-soon&theme=github_dark)](https://github.com/salmankavanur/coming-soon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=certificate&theme=github_dark)](https://github.com/salmankavanur/certificate)
