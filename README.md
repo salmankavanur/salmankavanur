@@ -21,6 +21,22 @@ I build fast, good-looking websites and web apps, and I design and film the visu
 - **Media:** Drone & ground photo/video, editing, color grading, live streaming
 - **Infra:** Hosting, server management, dedicated servers, Koha library digitization
 
+### 📊 GitHub activity
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankavanur&theme=github_dark&layout=compact&hide_border=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/salmankavanur"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=salmankavanur&theme=github-dark&hide_border=true" alt="GitHub Streak"></a>
+</p>
+
+### 📌 Top repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=maintanance-mode&theme=github_dark)](https://github.com/salmankavanur/maintanance-mode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=coming-soon&theme=github_dark)](https://github.com/salmankavanur/coming-soon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salmankavanur&repo=certificate&theme=github_dark)](https://github.com/salmankavanur/certificate)
+
 ### 📫 Let's work together
 
 Open to freelance web, design and video projects. Reach me at **[hello@salmanmp.me](mailto:hello@salmanmp.me)**.
